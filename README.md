@@ -1,2 +1,2 @@
-# RunnDllNet
-Run .net DLL methotds from command line
+# RunDllNet
+Generic wrapper to deploy .net DLLs as monolithic EXE and make them runnable from command line
